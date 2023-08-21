@@ -67,6 +67,8 @@ params:
           url: "https://github.com/evansimm"
         - name: linkedin
           url: "https://www.linkedin.com/in/evan-g-simmons/"
+        - name: "cv"
+          url: "https://evansimmonsresume.com"
 
       # add more social icons. find more in svg.html file
       # - name: youtube
