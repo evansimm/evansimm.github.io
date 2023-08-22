@@ -61,10 +61,10 @@ params:
       - articles
 
     socialIcons:
-        - name: kofi
-          url: "https://ko-fi.com/evansimmonstech"
-        - name: github
-          url: "https://github.com/evansimm"
+        # - name: kofi
+        #  url: "https://ko-fi.com/evansimmonstech"
+        # - name: github
+        #  url: "https://github.com/evansimm"
         - name: linkedin
           url: "https://www.linkedin.com/in/evan-g-simmons/"
         - name: "cv"
