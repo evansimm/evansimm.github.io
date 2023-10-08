@@ -1,7 +1,7 @@
 ---
 title: Cloud is free
 dateMonthYear: October 7, 2023
-description: Cloud is free is a platform dedicated to assisting individuals in setting up practical projects with interactive, detailed documentation while making the most of the Free Tier offerings from various Cloud platforms.
+description: Click to learn about this project.
 type: page
 topic: project
 author: Evan
