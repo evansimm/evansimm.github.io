@@ -331,12 +331,9 @@
 }
 
 .share-buttons {
-    margin: 14px 0;
-    padding-inline-start: var(--radius);
-    display: flex;
-    justify-content: center;
-    overflow-x: auto;
-}
+    display: none;
+  }
+
 
 .share-buttons a {
     margin-top: 10px;

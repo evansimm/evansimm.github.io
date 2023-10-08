@@ -23,9 +23,7 @@ menu:
         # - name: new Tab
         #   url: /newtab/
         #   weight: defines order of tabs
-  - name: Contact
-    url: https://www.linkedin.com/in/evan-g-simmons/
-    weight: 30
+   
 
 
 params:
