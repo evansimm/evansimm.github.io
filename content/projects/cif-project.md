@@ -1,7 +1,7 @@
 ---
 title: Cloud is free
 dateMonthYear: October 7, 2023
-description: Click to learn about this project.
+description: 3 hands-on projects to help you learn AWS.
 type: page
 topic: project
 author: Evan
@@ -12,7 +12,7 @@ author: Evan
 ## Introduction
 What is **Cloud is free**? Cloud is free is a platform dedicated to assisting individuals in setting up practical AWS projects with interactive, detailed documentation while making the most of the Free Tier offerings from various Cloud platforms.
 
-At the time of this post, Cloud is free offers 3 projects of varying complexity, with more projects in the pipeline. The projects are: Hosting a Static Website in, creating a Severless Sending Application, and managing and visualizing an RDS database using ECS containers.
+At the time of this post, Cloud is free offers 3 projects of varying complexity, with more projects in the pipeline. The projects are involve hosting a static website, creating a severless sending application, and managing and visualizing an RDS database using ECS containers.
 
 ## Project 1: Static Website Hosting
 *Task: Create a static website using S3, CloudFront, Route 53, and ACM.*
